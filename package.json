@@ -1,0 +1,14 @@
+{
+  "name": "overlib",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yieloo/overlib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yieloo/overlib/issues"
+  },
+  "homepage": "https://github.com/Yieloo/overlib#readme"
+}
